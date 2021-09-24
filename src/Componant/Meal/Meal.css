@@ -1,0 +1,31 @@
+.meal-container{
+     display: flex;
+     justify-content: center;
+     background-color: cornsilk;
+     border-bottom: 1px solid black;
+     padding: 20px;
+
+}
+
+.meal-container img{
+     width: 200px;
+     height: 200px;
+     border-radius: 10px;
+}
+
+.meal-details{
+     color: blue;
+     margin-left: 20px;
+     padding: 20px;
+}
+
+.meal-details button{
+     background-color: tomato;
+     color: white;
+     height: 40px;
+     padding: 10px;
+     font-size: 20px;
+     border:1px solid wheat;
+     border-radius: 10px;
+     cursor: pointer;
+}
